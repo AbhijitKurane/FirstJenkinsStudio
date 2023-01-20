@@ -1,1 +1,1 @@
-{ "updates": [ { "files": ["file":"img/test.png"], "version": "2.13" } ] }
+{ "updates": [ { "files": [{"file":"img/test.png"}], "version": "2.13" } ] }
